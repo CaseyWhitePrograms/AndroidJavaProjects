@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JiujitsuTechniques</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_item_detail">Technique Detail</string>
+
+    <string name="et_position">Position</string>
+    <string name="et_attack">Attack</string>
+    <string name="et_rank">Rank</string>
+    <string name="et_hours">Hours Trained</string>
+    <string name="et_date">Date</string>
+</resources>
