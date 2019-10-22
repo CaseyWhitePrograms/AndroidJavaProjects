@@ -1,7 +1,3 @@
-// Project:		Lab8
-// Class Name:	MainActivity
-// Date:        10/23/18
-// Author:      CWhite
 // Description:
 // An application that calculates the number of days between two user supplied dates
 package com.example.kozlevcar.lab8bycwhite;

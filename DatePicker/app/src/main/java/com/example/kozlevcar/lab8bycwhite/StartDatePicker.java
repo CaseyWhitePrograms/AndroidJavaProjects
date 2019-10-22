@@ -1,7 +1,3 @@
-// Project:		Lab8
-// Class Name:	StartDatePickerFragment
-// Date:        10/23/18
-// Author:      CWhite
 // Description:
 // StartDatePickerActivity
 
